@@ -1,0 +1,10 @@
+name: Instructables
+main: com.instructables.main.Main
+description: A plugin for the awesome website Instructables.com
+website:  www.instructables.com
+author: RubbaBoy
+version: 0.1
+commands:
+   instructables:
+      description: Activated our Instructables command!
+      usage: /instructables
